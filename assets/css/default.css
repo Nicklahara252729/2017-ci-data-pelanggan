@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0 auto;
+    background: #f8f8f8;
+}
+.padding{
+    padding: 10px;
+}
+.no-padding{
+    padding: 0;
+}
+.bg-abu{
+    background: #f8f8f8;
+}
+.bg-pink{
+    background: #ef2470;
+}
+.text-center{
+    text-align: center;
+}
+.color-white{
+    color: white;
+}
+.mar-top-100{
+    margin-top:100px;
+}
+.mar-top-10{
+    margin-top:10px;
+}
+.bg-putih{
+    background: white;
+}
+.bor-ra-3{
+    border-radius: 3px;
+}
+.f-50{
+    font-size: 50px;
+}
+.f-20{
+    font-size: 20px;
+}
+.f-30{
+    font-size: 30px;
+}
+.f-40{
+    font-size: 40px;
+}
+.f-calibri{
+    font-family: "arial";
+}
+.pln{
+    background: #fff;
+    border:solid 1px #f8993c;
+    color: #f8993c;
+    transition: all 0.3s ease-in-out;
+    border-radius: 3px;
+}
+.pln:hover{
+    background: #f8993c;
+    cursor: pointer;
+    color: white;
+}
+.pdam{
+    background: #fff;
+    border:solid 1px #1574c5;
+    color: #1574c5;
+    transition: all 0.3s ease-in-out;
+    border-radius: 3px;
+}
+.pdam:hover{
+    background: #1574c5;
+    cursor: pointer;
+    color: white;
+}
+.pulsa{
+    background: #fff;
+    border:solid 1px #93d732;
+    color: #93d732;
+    transition: all 0.3s ease-in-out;
+    border-radius: 3px;
+}
+.pulsa:hover{
+    background: #93d732;
+    cursor: pointer;
+    color: white;
+}
+.bpjs{
+    background: #fff;
+    border:solid 1px #ef2470;
+    color: #ef2470;
+    transition: all 0.3s ease-in-out;
+    border-radius: 3px;
+}
+.bpjs:hover{
+    background: #ef2470;
+    cursor: pointer;
+    color: white;
+}
+.right{
+    float: right;
+}
+.mar-rig-10{
+    margin-right: 10px;
+}
+th{
+    background: #93d732;
+}
